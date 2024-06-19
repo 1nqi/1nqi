@@ -1,4 +1,4 @@
-# :book: Hi there, I'm Dauren
+# :book: Hi there!
 
 <!--![Welcome to my github (1)](https://user-images.githubusercontent.com/72253666/214588535-25b48a0b-1e5b-4edb-a40c-7cd50f61a541.png)-->
 
