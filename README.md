@@ -1,4 +1,4 @@
-# :book: Hello there, it's Dauren
+# :book: Hi there, I'm Dauren
 
 <!--![Welcome to my github (1)](https://user-images.githubusercontent.com/72253666/214588535-25b48a0b-1e5b-4edb-a40c-7cd50f61a541.png)-->
 
@@ -7,7 +7,7 @@
 ## 📖 About me
 - 🎓 11th grade student at Nazarbayev Intellectual School in Taraz
 
-## 🔧 𝚃𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚒𝚎𝚜 & 𝚃𝚘𝚘𝚕𝚜
+## 🛠 𝚃𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚒𝚎𝚜 & 𝚃𝚘𝚘𝚕𝚜
 <!--![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=FFE4E1)
 ![SQL](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=sql&logoColor=white&color=FFE4E1)
 ![Windows](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=FFE4E1)
