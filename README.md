@@ -5,7 +5,7 @@
 
 
 ## 📖 About me
-- 🎓 11th grade student at Nazarbayev Intellectual School in Taraz
+- 🎓 
 
 ## 🛠 𝚃𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚒𝚎𝚜 & 𝚃𝚘𝚘𝚕𝚜
 <!--![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=FFE4E1)
