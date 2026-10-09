@@ -37,8 +37,8 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
-## 📊 Stats
-![1nqi's GitHub stats](https://github-readme-stats.vercel.app/api?username=1nqi&show_icons=true&theme=dark)
+<!--## 📊 Stats
+![1nqi's GitHub stats](https://github-readme-stats.vercel.app/api?username=1nqi&show_icons=true&theme=dark)-->
 
 
 ##  ✉️ Contact Me 
