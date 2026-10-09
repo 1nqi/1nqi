@@ -47,6 +47,8 @@
   <a href="mailto:dauren.omarbekov@nu.edu.kz">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
+</div>
+<div id="badges">
   <a href="wa.me/77051235607">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
   </a>
