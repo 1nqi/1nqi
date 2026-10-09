@@ -44,7 +44,7 @@
 ##  ✉️ Contact Me 
 
 <div id="badges">
-  <a href="https://t.me/bwclips">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telega Badge"/>
+  <a href="mailto:dauren.omarbekov@nu.edu.kz">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>
